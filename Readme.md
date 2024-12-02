@@ -117,3 +117,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Note
+sudo apt install python3-pip
+pip3 --version
+pip install pyserial --break-system-packages
+sudo apt update
+sudo apt install python3-serial
